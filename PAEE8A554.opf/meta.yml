@@ -1,0 +1,28 @@
+id: PAEE8A554
+initial_creation_type: input
+source_metadata:
+  title: Stages of Meditation Series
+  language: bo
+  description: 'Texts that provide practical, step-by-step instructions on how to
+    meditate on certain topics:'
+  volume:
+    94c62bbaf03e4219bb2c41a7685b6520:
+      title: 'The Brightly Shining Sun: A Step-by-Step Guide to Meditating on the
+        Bodhicaryāvatāra'
+      parent: Bodhicaryāvatāra
+    8dc6de4e3d3c406492e901aed99dee6b:
+      title: 'The Garland of Jewel Ornaments: The Stages of Meditating on the Bodhicaryāvatāra'
+      parent: Bodhicaryāvatāra
+    924b993995bb4f61b2e4799d13f36208:
+      title: 'A Casket of Sacred Dharma: Stages of Meditation on Dependent Arising'
+      parent: Dependent Origination
+    f1ae9aec05114da882bbf50f1baf6641:
+      title: A Step-by-Step Meditation on the Definitive Meaning of the Great Middle
+        Way
+      parent: Middle Way
+    5ccda4ded91a4409a0a0f24658705a05:
+      title: 'Excellent Explanation from the Scriptural Tradition: A Brief Guide to
+        the Stages of Meditating on the General Themes of the Ornament to the Prajñāpāramitā'
+      parent: Prajñāpāramitā
+created_at: '2022-03-01T05:57:16.026781'
+last_modified_at: '2022-03-01T05:57:16.026783'
